@@ -61,9 +61,73 @@
 #ordered {
     color: rosybrown;
     font-family: cursive, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    
+
+}
+
+/* This is all of the CSS for the wings page*/
+
+.wingspage {
+    background-color: dodgerblue;
 }
 
 
+.paragraph {
+    color:turquoise
+}
+
+#header1 {
+    color: slateblue;
+    font-weight: bolder;
+}
+
+
+
+.unordered.list {
+    color:magenta
+    
+    
+}
+
+.ancestor .child {
+    color: mediumaquamarine;
+}
+
+.wings {
+    height: auto;
+    width: 500px;
+}
+
+/* This is the CSS for the wedding soup page */
+
+.weddingpic {
+    height: auto;
+    width: 500px;
+}
+
+#weddingbody {
+    background-color: gold;
+}
+
+.weddingheader {
+    color: green;
+    background-color: honeydew;
+}
+
+.soupdescription {
+    font-weight: 900;
+    font-family: sans-serif; color: hotpink;
+}
+
+.souplist {
+    font-size: 18px;
+    color: indianred;
+}
+
+.foodlist {
+    font: 900;
+    color: lemonchiffon;
+    background-color: lightcoral;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
 
 
